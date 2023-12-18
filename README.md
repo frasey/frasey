@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Eilein!
 
-I'm from Edinburgh, Scotland and recently graduated CodeClan's immersive Professional Software Development bootcamp.
+I'm from Edinburgh, Scotland and a career changer who recently graduated CodeClan's immersive Professional Software Development bootcamp.
 
 ## Tech Stack
 
@@ -38,7 +38,7 @@ I'm from Edinburgh, Scotland and recently graduated CodeClan's immersive Profess
 
 ### Contact Me
 
-<a href="https://www.linkedin.com/in/eileinfraser"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="Linked In"/></a>
+<a href="https://www.linkedin.com/in/eilein-fraser"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="Linked In"/></a>
 
 <!--
 **frasey/frasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
