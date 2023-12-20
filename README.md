@@ -1,3 +1,5 @@
+<img src="https://qph.cf2.quoracdn.net/main-qimg-968f686993b24a420e969aac415e27a0" title="BannerImage" alt="BannerImage" width="100%" height="100%"/>
+
 ### 👋 Hello, I'm Eilein!
 
 I'm from Edinburgh, Scotland and a career changer who recently graduated CodeClan's immersive Professional Software Development bootcamp.
