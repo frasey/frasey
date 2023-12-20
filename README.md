@@ -4,6 +4,81 @@
 
 I'm from Edinburgh, Scotland and a career changer who recently graduated CodeClan's immersive Professional Software Development bootcamp.
 
+## Full Stack Projects
+
+<div align="center">
+  <a href="https://github.com/frasey/a_safe_place">
+    <img 
+      align="middle" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=a_safe_place&theme=darcula"
+    />
+  </a>&nbsp;
+  <img 
+    align="middle" 
+    src="https://github.com/frasey/frasey/assets/129194569/7bdcab08-5b14-4af9-a19e-a5c338649736"
+    title="SafePlaceSignIn"
+    alt="SafePlaceSignIn" 
+    width="340"
+  />
+</div>
+<br/>
+<br/>
+<br/> 
+<div align="center">
+  <img 
+    align="middle" 
+    src="https://github.com/frasey/frasey/assets/129194569/4645b498-8459-4190-b241-e2717ad85496"
+    title="WeatherProjectHomepage"
+    alt="WeatherProjectHomepage" 
+    width="340"
+  />&nbsp;
+  <a href="https://github.com/frasey/Weather_project">
+    <img 
+      align="middle" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frasey&repo=Weather_project&theme=darcula"
+    />
+  </a>
+</div>
+<br/>
+<br/>
+<br/> 
+<div align="center">
+  <a href="https://github.com/frasey/Roll_for">
+    <img 
+      align="middle" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frasey&repo=Roll_for&theme=darcula"
+    />
+  </a>&nbsp;
+  <img 
+    align="middle" 
+    src="https://github.com/frasey/frasey/assets/129194569/ab455c0e-7641-4d05-afc8-6b0489b28510"
+    title="RollForHomepage"
+    alt="RollForHomepage" 
+    width="340"
+  />
+</div>
+<br/>
+<br/> 
+<br/> 
+<div align="center">
+  <img 
+    align="middle" 
+    src="https://github.com/frasey/frasey/assets/129194569/ffd00b29-34c8-49b8-b94e-801c74350746"
+    title="workoutHomepage"
+    alt="workoutHomepage" 
+    width="340"
+  />&nbsp;
+  <a href="https://github.com/frasey/workout">
+    <img 
+      align="middle" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frasey&repo=workout&theme=darcula"
+    />
+  </a>
+</div>
+<br/>
+<br/>
+
+
 ## Tech Stack
 
 <div align="center">
@@ -34,9 +109,6 @@ I'm from Edinburgh, Scotland and a career changer who recently graduated CodeCla
 </div>
 <br/>
 
-## Full Stack Projects
-
--- project links here --
 
 ### Contact Me
 
