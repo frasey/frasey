@@ -19,7 +19,7 @@ I'm from Edinburgh, Scotland and a career changer who recently graduated CodeCla
     title="SafePlaceSignIn"
     alt="SafePlaceSignIn" 
     width="340"
-    height="450"
+    height="600"
   />
 </div>
 <br/>
