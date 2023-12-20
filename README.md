@@ -10,7 +10,7 @@ I'm from Edinburgh, Scotland and a career changer who recently graduated CodeCla
   <a href="https://github.com/frasey/a_safe_place">
     <img 
       align="middle" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=a_safe_place&theme=darcula"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frasey&repo=a_safe_place&theme=darcula"
     />
   </a>&nbsp;
   <img 
@@ -19,6 +19,7 @@ I'm from Edinburgh, Scotland and a career changer who recently graduated CodeCla
     title="SafePlaceSignIn"
     alt="SafePlaceSignIn" 
     width="340"
+    height="450"
   />
 </div>
 <br/>
