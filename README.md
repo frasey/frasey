@@ -18,7 +18,7 @@ I'm from Edinburgh, Scotland and a career changer who recently graduated CodeCla
     src="https://github.com/frasey/frasey/assets/129194569/7bdcab08-5b14-4af9-a19e-a5c338649736"
     title="SafePlaceSignIn"
     alt="SafePlaceSignIn" 
-    width="340"
+    width="300"
     height="600"
   />
 </div>
