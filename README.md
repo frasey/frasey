@@ -2,7 +2,9 @@
 
 ### 👋 Hello, I'm Eilein!
 
-I'm from Edinburgh, Scotland and a career changer who recently graduated CodeClan's immersive Professional Software Development bootcamp.
+I'm from Edinburgh, Scotland and a career changer who recently graduated CodeClan's immersive Professional Software Development bootcamp. I'm actively looking for work as a junior developer.
+
+I started coding in 2022 and previously worked at the University of Edinburgh before leaving in 2023 to take the jump into changing my career path. I aspire to work in an enviroment that will be supportive in helping me further my new skills.
 
 ## Full Stack Projects
 
